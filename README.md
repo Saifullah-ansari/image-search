@@ -1,2 +1,2 @@
 
-[Live](image-search45.netlify.app)
+[Live Demo](https://image-search45.netlify.app/)
